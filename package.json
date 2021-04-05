@@ -1,0 +1,22 @@
+{
+  "name": "syntax_semantics_demo",
+  "version": "1.0.0",
+  "description": "An interactive demonstration of the difference between syntactic and semantic operations in computers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "mit",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-is": "^17.0.2",
+    "styled-components": "^5.2.2"
+  }
+}

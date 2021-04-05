@@ -1,0 +1,8 @@
+/.cache
+/.netlify
+/dist
+/node_modules
+/.git
+
+netlify.toml
+package-lock.json
