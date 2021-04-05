@@ -1,5 +1,13 @@
 # Syntax and Semantics &mdash; a Demonsration
 
-An interactive demonstration of the difference between syntactic and semantic operations in computers, with a little puzzle at the end.
+An interactive demonstration of the difference between syntactic and semantic operations in computers, including a little puzzle at the end.
 
-I just hacked this together for a philosophy of mind class I am teaching; the code is full of bad practices and is non-extendable.  Explore at own risk.
+I just hacked this together for a philosophy of mind class I am teaching. The code is full of bad practices and is not very extendable.  Explore at own risk.
+
+## Usage
+
+Install parcel and run `npm start` to compile the webpage for distribution.
+
+The code uses React and Styled Components.
+
+
