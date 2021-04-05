@@ -1,4 +1,4 @@
-# Syntax and Semantics &mdash; a Demonsration
+# Syntax and Semantics &mdash; a Demonstration
 
 An interactive demonstration of the difference between syntactic and semantic operations in computers, including a little puzzle at the end.  Currently online at [https://syntactic.netlify.app](https://syntactic.netlify.app/).
 
