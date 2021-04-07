@@ -26,3 +26,5 @@ const Switch = (props) => {
 }
 
 export default Switch
+
+// Switch styling from https://codepen.io/peiche/pen/vonqb
